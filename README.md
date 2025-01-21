@@ -1,5 +1,3 @@
-# Assignment--Questions
-
 
 1. Design a method to find area of triangle, rectangle, circle.
 2. Design a class for a E-commerce website which has following methods, method to add the product, method to  add the product and quantity, method to add the product,   quantity and address of the customer.
@@ -206,5 +204,20 @@ Assignment of Jan10
 15.Design a method to remove all the odd index elements from the array.
 16.Design a method to reverse each element of the array.
 17.Design a method to find the nth minimum value in the array.
+
+
+Assignment of Jan20
+1. Design a method to rotate elements towards right for n times.(12th in Jan10).
+2. Design a method to remove the given element from the array.
+3. Design a method to merge two arrays in sorted and copy the elements inside third array.(important) 
+4. Design a method to merge two arrays and copy the elements in the third array.
+5. Design a method to find second maximum value in the array.
+
+
+Assignment of Jan21
+
+1. Design a method to find unique elements or distinct elements in the array.
+2. Design a method to print duplicate elements in the array.
+3. Design a method to print all the elements in the array only once.
 
 
